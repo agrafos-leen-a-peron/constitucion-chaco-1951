@@ -27,3 +27,15 @@ y de la aptitud profesional, procurando que todas las inteligencias puedan orien
 a la sociedad estimular el esfuerzo individual proporcionando los medios para que, en igualdad de oportunidades, todo individuo pueda ejercitar
 el derecho a aprender y perfeccionarse.
 
+##### 4. Derecho a condiciones dignas de trabajo
+
+La consideracion debida al ser humano, la importancia que el trabajo reviste como funcion social y el respeto reciproco entre los factores
+concurrentes de la produccion, consagran el derecho de los individuos a exigir condiciones dignas y justas para el desarrollo de su actividad
+y la obligacion de la sociedad de velar por la estricta observancia de los preceptos que las instituyen y reglamentan.
+
+##### 5. Derecho de la preservacion de la salud
+
+El cuidado de la salud fisica y moral de los individuos debe sre una preocupacion constante de la sociedad, a la que corresponde velar para
+que el regimen de trabajo reuna los requisitos adecuados de higiene y seguridad, no exceda las posibilidades normales del esfuerzo y posibilite
+la debida oportunidad de recuperacion por el reposo.
+
