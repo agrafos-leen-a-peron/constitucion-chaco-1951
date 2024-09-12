@@ -97,5 +97,39 @@ Una ley determinara los casos y el modo en que se prestara tal asistencia.
 
 ### Art 13
 
+El pueblo no delibera ni gobierna sino por medio de sus representantes y autoridades creacas por esta Constitucion.
+En ningun caso una reunion de personas podra atribuirse la representacion ni los derechos del pueblo, y quienes lo hicieren cometen delito de sedicion.
 
-4. 
+### Art 14
+
+La provincia no reconoce libertad para atentar contra la libertad.
+Esta norma se entiende sin perjuicio del derecho individual de emision del pensamiento dentro del terreno doctrinal, sometido unicamente a las prescripciones de la ley.
+
+La provincia no reconoce organizaciones nacionales o internacionales, cualesquiera que sean sus fines, que sustenten principios opuestos a las
+libertades individuales reconocidas en esta Constitucion o atentatorias al sistema democratico en que esta se inspira.
+Quienes pertenezcan a cualquiera de las organizaciones aludidas no podran desempeñar funciones publicas en ninguno de los poderes de la provincia.
+Quedan prohibidos la organizacion y el funcionamiento de milicias o agrupaciones similares que no sean los del Estado o las provincias.
+
+### Art 15
+
+Nadie esta obligado a hacer lo que no manda la ley, ni privado de lo que ella no prohibe.
+
+Las acciones privadas de los hombres que de ningun modo ofendan al orden o a la moral publica ni perjudiquen a terceros estan reservadas
+a Dios y exentas de la autoridad de los magistrados.
+
+### Art 16
+
+Los poderes publicos no podran delegar las facultades que les han sido conferidas por esta Constitucion, ni atribuir al Poder Ejecutivo 
+otras que las que expresamente le estan acordadas por ella.
+
+### Art 17
+
+Los derechos y garantias reconocidos por esta Constitucion no podran ser alterados por las leyes que reglamenten su ejercicio, 
+pero tampoco amparan a ningun habitante de la provincia en perjuicio, detrimento o menoscabo de otro.
+Los abusos de esos derechos que perjudiquen a la comunidad o que lleven a cualquier forma de explotacion del hombre por el hombre configuran
+violaciones que seran castigadas por las leyes.
+
+### Art 18 
+
+Las declaraciones, derechos y garantias que enumera esta Constitucion no seran entendidos como negacion de otros derechos y garantias no
+enumerados, pero que nacen del principio de la soberania del pueblo y de la forma republicana de gobierno.
