@@ -76,5 +76,26 @@ Todo habitante podra interponer por si o por intermedio de cualquier persona rec
 para que se investiguen el procedimiento y la causa de cualquier restriccion o amenaza a la libertad de su persona.
 El tribunal mandara a compadecer al recurrente, y comprobada en forma sumaria la violacion hara cesar inmediatamente la restriccion o amenaza.
 
+### Art 10
+
+Cuando en un proceso criminal se haya dictado la prision preventiva del imputado y luego resulte este sobreseido definitivamente o absuelto por
+sentencia firme, la provincia lo indemnizara en las siguientes condiciones:
+
+1. Solo recibiran indemnizacion aquellos que este calificados como obreros o empleados en los convenios de trabajo emanados de entidades que se rigen por la ley nacional de asociaciones profesionales.
+2. La indemnizacion sera equivalente a los salarios que le habrian correspondido mientras estuvo detenido, calculados de acuerdo a lo estipulado por los convenios vigentes en el momento de la privacion de su libertad.
+
+### Art 11
+
+Ninguna detencion podra prolongarse por mas de 24 horas sin darse aviso al juez competente poniendose al detenido a su disposicion con los 
+antecedentes del hecho que motiva su detencion.
+Desde entonces, tampoco podra permanecer el detenido mas de 24 horas sin que se le haga conocer la causa de su detencion.
+
+### Art 12
+
+La provincia proveera en especial a la asistencia de la familia desvalida del detenido, el encausado o el penado, asi como a la de la familia y de la victima.
+Una ley determinara los casos y el modo en que se prestara tal asistencia.
+
+### Art 13
 
 
+4. 
